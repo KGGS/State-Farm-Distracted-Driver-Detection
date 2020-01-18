@@ -1,0 +1,10 @@
+# Directories #
+/data/
+
+# OS Files #
+.DS_Store
+
+# Package Files #
+*.zip
+*.csv
+
